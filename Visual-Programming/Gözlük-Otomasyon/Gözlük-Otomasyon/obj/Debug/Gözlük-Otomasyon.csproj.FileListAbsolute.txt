@@ -1,0 +1,95 @@
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe.config
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.AssemblyReference.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.mainScreen.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.Properties.Resources.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.GenerateResource.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.passwordResetScreen.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.signInScreen.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.singUpScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe.config
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.AssemblyReference.cache
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.mainScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.passwordResetScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.Properties.Resources.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.signInScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.singUpScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.GenerateResource.cache
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.basketScreen.resources
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CopyComplete
+C:\Users\punti\Desktop\ufuk\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.adminPanel.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe.config
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.AssemblyReference.cache
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.addProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.basketScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.editProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.mainScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.passwordResetScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.Properties.Resources.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.signInScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.singUpScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.updateProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.GenerateResource.cache
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CopyComplete
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.accountInfo.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.addressesScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.favoritesScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe.config
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.AssemblyReference.cache
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.accountInfo.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.addProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.addressesScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.basketScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.editProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.favoritesScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.mainScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.passwordResetScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.Properties.Resources.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.signInScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.singUpScreen.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.updateProductPanel.resources
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.GenerateResource.cache
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.csproj.CopyComplete
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.exe
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük-Otomasyon.pdb
+C:\Users\punti\Desktop\Visual-Programming(bozuk)\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.informationScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.informationScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SqlClient.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SqlClient.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.whereAreWe.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.aboutUs.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.faqScreen.resources
+C:\Users\punti\Desktop\Visual-Programming\Gözlük-Otomasyon\Gözlük-Otomasyon\obj\Debug\Gözlük_Otomasyon.ordersScreen.resources
